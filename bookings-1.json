@@ -1,0 +1,23 @@
+{
+    "data":
+    {
+        "bookings":
+        [
+            {
+                "id": "8e31",
+                "status": "open",
+                "serviceName": "Signature Clean"
+            },
+            {
+                "id": "1c00",
+                "status": "open",
+                "serviceName": "Move Out Clean"
+            },
+            {
+                "id": "3399aa",
+                "status": "closed",
+                "serviceName": "Premium Clean"
+            }
+        ]
+    }
+}

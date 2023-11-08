@@ -1,0 +1,28 @@
+{
+    "data":
+    {
+        "bookings":
+        [
+            {
+                "id": "999999a",
+                "status": "open",
+                "serviceName": "🏓 Clean"
+            },
+            {
+                "id": "9999999b",
+                "status": "open",
+                "serviceName": "🎾 Clean"
+            },
+            {
+                "id": "3399aa",
+                "status": "closed",
+                "serviceName": "Premium Clean"
+            },
+            {
+                "id": "abc123",
+                "status": "closed",
+                "serviceName": "🛣️ Clean"
+            }
+        ]
+    }
+}

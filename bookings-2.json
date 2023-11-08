@@ -1,0 +1,34 @@
+{
+    "data":
+    {
+        "bookings":
+        [
+            {
+                "id": "abc123",
+                "status": "closed",
+                "serviceName": "🛣️ Clean"
+            },
+            {
+                "id": "def111",
+                "status": "open",
+                "serviceName": "💈 Clean"
+            },
+            {
+                "id": "ghi555",
+                "status": "closed",
+                "serviceName": "👛 Clean"
+            },
+            {
+                "id": "gh0101",
+                "status": "open",
+                "serviceName": "👥 Clean"
+            },
+            {
+                "id": "ko1888",
+                "status": "open",
+                "serviceName": "⛑️ Clean"
+            },
+            
+        ]
+    }
+}
